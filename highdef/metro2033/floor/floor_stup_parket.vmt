@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "highdef/metro2033/floor/floor_stup_parket"
+	"$bumpmap" "highdef/metro2033/floor/floor_stup_parket_ssbump"
+	"$ssbump" "1"
+	"$surfaceprop" "Wood_Solid"
+	"%keywords" "metro"
+}

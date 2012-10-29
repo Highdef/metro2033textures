@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "highdef/metro2033/decals/metal_grating_kal"
+	"%keywords" "metro"
+	"$decal" "1"
+	"$decalscale" ".05"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

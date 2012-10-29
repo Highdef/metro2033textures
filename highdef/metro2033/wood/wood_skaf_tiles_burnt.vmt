@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "highdef/metro2033/wood/wood_skaf_tiles_burnt"
+	"$bumpmap" "highdef/metro2033/wood/wood_skaf_tiles_burnt_ssbump"
+	"$ssbump" "1"
+	"$surfaceprop" "Wood_Solid"
+	"%keywords" "metro"
+}

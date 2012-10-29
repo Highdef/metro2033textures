@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "highdef/metro2033/brick/bricks_wallbricks_green"
+	"$bumpmap" "highdef/metro2033/brick/bricks_wallbricks_green_ssbump"
+	"$ssbump" "1"
+	"$surfaceprop" "Brick"
+	"%keywords" "metro"
+}

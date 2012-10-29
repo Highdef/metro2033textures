@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "highdef/metro2033/wall/wall_kraska_biblio_01"
+	"$bumpmap" "highdef/metro2033/wall/wall_kraska_biblio_01_ssbump"
+	"$ssbump" "1"
+	"$surfaceprop" "Concrete"
+	"%keywords" "metro"
+}

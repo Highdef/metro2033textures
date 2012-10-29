@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "highdef/metro2033/metal/metal_shaft"
+	"$bumpmap" "highdef/metro2033/metal/metal_shaft_ssbump"
+	"$ssbump" "1"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.5 .5 .5]"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "Metal"
+	"%keywords" "metro"
+}

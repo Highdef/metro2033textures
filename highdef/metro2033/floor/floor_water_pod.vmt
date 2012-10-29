@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "highdef/metro2033/floor/floor_water_pod"
+	"$bumpmap" "highdef/metro2033/floor/floor_water_pod_ssbump"
+	"$ssbump" "1"
+	"$surfaceprop" "Dirt"
+	"%keywords" "metro"
+}
